@@ -1,4 +1,4 @@
-# Digital_and_hybrid_precoding_design
+# Simulator for ''Digital and hybrid precoding designs in massive MIMO with low-resolution ADCs''
 These are the MATLAB codes for the following paper:
 
 [1] Mengyuan Ma, Nhan Thanh Nguyen, Italo Atzeni, A. Lee Swindlehurst, and Markku Juntti. Digital and hybrid precoding designs in massive MIMO with low-resolution ADCs, IEEE Wireless Commun. Lett., 2025 (Early access).
