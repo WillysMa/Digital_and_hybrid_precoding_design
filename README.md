@@ -5,7 +5,7 @@ These are the MATLAB codes for the following paper:
 
 Please kindly cite the paper if you find any of the provides codes useful for your work.
 
-## Explaination
+## Explanation
 
 -- Downlod the project to your workstation
 
