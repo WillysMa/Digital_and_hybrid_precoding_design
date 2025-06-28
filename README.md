@@ -6,6 +6,9 @@ There are the MATLAB codes for the following paper:
 Please kindly cite the paper if you find any of the provides codes useful for your work.
 
 ## Explaination
+
 -- Downlod the project to your workstation
+
 -- Unpack the zip file to current folder
+
 -- Run the SE_bit.m script, which will return the Figs. 2(b) and 3(a) in the paper.
